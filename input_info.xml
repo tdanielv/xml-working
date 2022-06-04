@@ -1,0 +1,66 @@
+<Guests >
+	<Guest Age="25" Nationalty="BY" Gender="M" Name="Jack">
+		<Type>Adult</Type>
+		<Profile>
+			<Address>Pushkinskaya 25</Address>
+		</Profile>
+	</Guest>
+	<Guest Age="24" Nationalty="FR" Gender="W" Name="Jackky">
+		<Type>Adult</Type>
+		<Profile>
+			<Address>Pushkinskaya 26</Address>
+		</Profile>
+	</Guest>
+	<Guest Age="10" Nationalty="RU" Gender="W" Name="Jan">
+		<Type>Child</Type>
+		<Profile>
+			<Address>Pushkinskaya 27</Address>
+			<Email>mail10@box.com</Email>
+		</Profile>
+	</Guest>
+	<Guest Age="1" Nationalty="BY" Gender="M" Name="John">
+		<Type>Infant</Type>
+		<Profile>
+			<Address>Pushkinskaya 28</Address>
+		</Profile>
+	</Guest>
+	<Guest Age="91" Nationalty="IN" Gender="M" Name="Jimmy">
+		<Type>Senior</Type>
+		<Profile>
+			<Address>Pushkinskaya 29</Address>
+		</Profile>
+	</Guest>
+	<Guest Age="26" Nationalty="US" Gender="M" Name="Jordan">
+		<Type>Adult</Type>
+		<Profile>
+			<Address>Pushkinskaya 30</Address>
+			<Email>zinka26@box.com</Email>
+		</Profile>
+	</Guest>
+	<Guest Age="75" Nationalty="US" Gender="M" Name="July">
+		<Type>Adult</Type>
+		<Profile>
+			<Address>New Hamptons</Address>
+			<Email>mail75@box.com</Email>
+		</Profile>
+	</Guest>
+	<Guest Age="9" Nationalty="KZ" Gender="M" Name="Joseph">
+		<Type>Child</Type>
+		<Profile>
+			<Address>Under Bridge</Address>
+		</Profile>
+	</Guest>
+	<Guest Age="35" Nationalty="BY" Gender="W" Name="Jasika">
+		<Type>Adult</Type>
+		<Profile>
+			<Address>Pushkinskaya 33</Address>
+		</Profile>
+	</Guest>
+	<Guest Age="35" Nationalty="RU" Gender="W" Name="Jassy">
+		<Type>Adult</Type>
+		<Profile>
+			<Address>Cheap motel</Address>
+		</Profile>
+	</Guest>	
+</Guests>
+
