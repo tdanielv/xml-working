@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+    <names>
+        <name>Jack</name>
+        <name>Jackky</name>
+        <name>Jan</name>
+        <name>John</name>
+        <name>Jimmy</name>
+        <name>Jordan</name>
+        <name>July</name>
+        <name>Joseph</name>
+        <name>Jasika</name>
+        <name>Jassy</name>
+    </names>
+    <adresses>
+        <addresses>Pushkinskaya 25</addresses>
+        <addresses>Pushkinskaya 26</addresses>
+        <addresses>Pushkinskaya 27</addresses>
+        <addresses>Pushkinskaya 28</addresses>
+        <addresses>Pushkinskaya 29</addresses>
+        <addresses>Pushkinskaya 30</addresses>
+        <addresses>New Hamptons</addresses>
+        <addresses>Under Bridge</addresses>
+        <addresses>Pushkinskaya 33</addresses>
+        <addresses>Cheap motel</addresses>
+    </adresses>
+    <ages>
+        <age>25</age>
+        <age>24</age>
+        <age>10</age>
+        <age>1</age>
+        <age>91</age>
+        <age>26</age>
+        <age>75</age>
+        <age>9</age>
+        <age>35</age>
+        <age>35</age>
+    </ages>
+    <nationalties>
+        <nationalty>BY</nationalty>
+        <nationalty>FR</nationalty>
+        <nationalty>RU</nationalty>
+        <nationalty>BY</nationalty>
+        <nationalty>IN</nationalty>
+        <nationalty>US</nationalty>
+        <nationalty>US</nationalty>
+        <nationalty>KZ</nationalty>
+        <nationalty>BY</nationalty>
+        <nationalty>RU</nationalty>
+    </nationalties>
+    <genders>
+        <gender>M</gender>
+        <gender>W</gender>
+        <gender>W</gender>
+        <gender>M</gender>
+        <gender>M</gender>
+        <gender>M</gender>
+        <gender>M</gender>
+        <gender>M</gender>
+        <gender>W</gender>
+        <gender>W</gender>
+    </genders>
+    <types>
+        <types>Adult</types>
+        <types>Adult</types>
+        <types>Child</types>
+        <types>Infant</types>
+        <types>Senior</types>
+        <types>Adult</types>
+        <types>Adult</types>
+        <types>Child</types>
+        <types>Adult</types>
+        <types>Adult</types>
+    </types>
+    <emails>
+        <emails>none</emails>
+        <emails>none</emails>
+        <emails>mail10@box.com</emails>
+        <emails>none</emails>
+        <emails>none</emails>
+        <emails>zinka26@box.com</emails>
+        <emails>mail75@box.com</emails>
+        <emails>none</emails>
+        <emails>none</emails>
+        <emails>none</emails>
+    </emails>
+</lists>
